@@ -1,0 +1,24 @@
+<div class="main container">
+  <h3>GUESS THE CARD!</h3>
+  <div class="guessInput">
+    <div class="">
+      <label for="exampleDataList" class="form-label">Select a Pokemon</label>
+      <input
+        class="form-control"
+        list="datalistOptions"
+        id="exampleDataList"
+        placeholder="Type to search..."
+      />
+      <datalist id="datalistOptions">
+        <option value="San Francisco"></option>
+        <option value="New York"></option>
+        <option value="Seattle"></option>
+        <option value="Los Angeles"></option>
+        <option value="Chicago"></option>
+      </datalist>
+    </div>
+  </div>
+  <div class="start">
+    <button routerLink="game" class="btn btn-warning">Hint</button>
+  </div>
+</div>
