@@ -6,7 +6,7 @@ import { GameComponent } from './components/game/game.component';
 
 
 const routes: Routes = [
-  {path: '', component: GameSetupComponent},
+  {path: '', component: GameComponent},
   {path: 'game', component: GameComponent}
 ]
 

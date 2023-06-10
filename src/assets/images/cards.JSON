@@ -1,0 +1,1967 @@
+[
+  {
+    "originalURL": "/assets/images/1ioss7d.png",
+    "blurredURL": "/assets/images/1ioss7d (custom).png",
+    "pokemon": "JIGGLYPUFF",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/1"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/1"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/3t2dd67.png",
+    "blurredURL": "/assets/images/3t2dd67 (custom).png",
+    "pokemon": "SQUIRTLE",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/2"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/2"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/4fr9gd9.png",
+    "blurredURL": "/assets/images/4fr9gd9 (custom).png",
+    "pokemon": "CHARIZARD",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/3"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/3"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/6k1mxi4.png",
+    "blurredURL": "/assets/images/6k1mxi4 (custom).png",
+    "pokemon": "RAICHU",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/4"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/4"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/6rn4nsn.png",
+    "blurredURL": "/assets/images/6rn4nsn (custom).png",
+    "pokemon": "PIKACHU",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/5"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/5"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/7iztwbw.png",
+    "blurredURL": "/assets/images/7iztwbw (custom).png",
+    "pokemon": "HITMONCHAN",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/6"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/6"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/57pj7i1.png",
+    "blurredURL": "/assets/images/57pj7i1 (custom).png",
+    "pokemon": "RAPIDASH",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/7"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/7"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/aerodactyl-fossil-fo-1.png",
+    "blurredURL": "/assets/images/aerodactyl-fossil-fo-1 (Custom).jpeg",
+    "pokemon": "AERODACTYL",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/8"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/8"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/ARTICUNO-FOSSIL-FO-2.png",
+    "blurredURL": "/assets/images/ARTICUNO-FOSSIL-FO-2 (Custom).jpeg",
+    "pokemon": "ARTICUNO",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/9"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/9"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/bijhlj5.png",
+    "blurredURL": "/assets/images/bijhlj5 (custom).png",
+    "pokemon": "VENOMOTH",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/10"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/10"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-arcanine-gym-challenge-1.png",
+    "blurredURL": "/assets/images/blaines-arcanine-gym-challenge-1 (Custom).jpeg",
+    "pokemon": "ARCANINE",
+    "cardName": "BLAINES ARCANINE",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/11"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/11"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-charizard-gym-challenge-2.png",
+    "blurredURL": "/assets/images/blaines-charizard-gym-challenge-2 (Custom).jpeg",
+    "pokemon": "CHARIZARD",
+    "cardName": "BLAINES CHARIZARD",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/12"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/12"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-charmander-gym-challenge-60.png",
+    "blurredURL": "/assets/images/blaines-charmander-gym-challenge-60 (Custom).jpeg",
+    "pokemon": "CHARMANDER",
+    "cardName": "BLAINES CHARMANDER",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/13"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/13"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-charmander-gym-heroes-61.png",
+    "blurredURL": "/assets/images/blaines-charmander-gym-heroes-61 (Custom).jpeg",
+    "pokemon": "CHARMANDER",
+    "cardName": "BLAINES CHARMANDER",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/14"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/14"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-charmeleon-gym-challenge-31.png",
+    "blurredURL": "/assets/images/blaines-charmeleon-gym-challenge-31 (Custom).jpeg",
+    "pokemon": "CHARMELEON",
+    "cardName": "BLAINES CHARMELEON",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/15"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/15"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-moltres-gym-heroes-1.png",
+    "blurredURL": "/assets/images/blaines-moltres-gym-heroes-1 (Custom).jpeg",
+    "pokemon": "MOLTRES",
+    "cardName": "BLAINES MOLTRES",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/16"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/16"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/blaines-vulpix-gym-heroes-65.png",
+    "blurredURL": "/assets/images/blaines-vulpix-gym-heroes-65 (Custom).jpeg",
+    "pokemon": "VULPIX",
+    "cardName": "BLAINES VULPIX",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/17"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/17"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/boz8c3h.png",
+    "blurredURL": "/assets/images/boz8c3h (custom).png",
+    "pokemon": "CHARMANDER",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/18"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/18"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/brocks-ninetales-gym-challenge-3.png",
+    "blurredURL": "/assets/images/brocks-ninetales-gym-challenge-3 (Custom).jpeg",
+    "pokemon": "NINETAILS",
+    "cardName": "BROCKS NINETAILS",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/19"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/19"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/brocks-rhydon-gym-heroes-2.png",
+    "blurredURL": "/assets/images/brocks-rhydon-gym-heroes-2 (Custom).jpeg",
+    "pokemon": "RHYDON",
+    "cardName": "BROCKS RHYDON",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/20"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/20"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/bsakyta.png",
+    "blurredURL": "/assets/images/bsakyta (custom).png",
+    "pokemon": "BLASTOISE",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/21"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/21"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/charmander-team-rocket-tr-50.png",
+    "blurredURL": "/assets/images/charmander-team-rocket-tr-50 (Custom).jpeg",
+    "pokemon": "CHARMANDER",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/22"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/22"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-alakazam-team-rocket-tr-1.png",
+    "blurredURL": "/assets/images/dark-alakazam-team-rocket-tr-1 (Custom).jpeg",
+    "pokemon": "ALAKAZAM",
+    "cardName": "DARK ALAKAZAM",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/23"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/23"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-arbok-team-rocket-tr-2.png",
+    "blurredURL": "/assets/images/dark-arbok-team-rocket-tr-2 (Custom).jpeg",
+    "pokemon": "ARBOK",
+    "cardName": "DARK ARBOK",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/24"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/24"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-blastoise-team-rocket-tr-3.png",
+    "blurredURL": "/assets/images/dark-blastoise-team-rocket-tr-3 (Custom).jpeg",
+    "pokemon": "BLASTOISE",
+    "cardName": "DARK BLASTOISE",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/25"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/25"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-charizard-team-rocket-tr-4.png",
+    "blurredURL": "/assets/images/dark-charizard-team-rocket-tr-4 (Custom).jpeg",
+    "pokemon": "CHARIZARD",
+    "cardName": "DARK CHARIZARD",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/26"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/26"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-charmeleon-team-rocket-tr-32.png",
+    "blurredURL": "/assets/images/dark-charmeleon-team-rocket-tr-32 (Custom).jpeg",
+    "pokemon": "CHARMELEON",
+    "cardName": "DARK CHARMELEON",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/27"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/27"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-dragonair-team-rocket-tr-33.png",
+    "blurredURL": "/assets/images/dark-dragonair-team-rocket-tr-33 (Custom).jpeg",
+    "pokemon": "DRAGONAIR",
+    "cardName": "DARK DRAGONAIR",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/28"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/28"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-dragonite-team-rocket-tr-5.png",
+    "blurredURL": "/assets/images/dark-dragonite-team-rocket-tr-5 (Custom).jpeg",
+    "pokemon": "DRAGONITE",
+    "cardName": "DARK DRAGONITE",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/29"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/29"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-dugtrio-team-rocket-tr-6.png",
+    "blurredURL": "/assets/images/dark-dugtrio-team-rocket-tr-6 (Custom).jpeg",
+    "pokemon": "DUGTRIO",
+    "cardName": "DARK DUGTRIO",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/30"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/30"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-flareon-team-rocket-tr-35.png",
+    "blurredURL": "/assets/images/dark-flareon-team-rocket-tr-35 (Custom).jpeg",
+    "pokemon": "FLAREON",
+    "cardName": "DARK FLAREON",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/31"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/31"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-golbat-team-rocket-tr-7.png",
+    "blurredURL": "/assets/images/dark-golbat-team-rocket-tr-7 (Custom).jpeg",
+    "pokemon": "GOLBAT",
+    "cardName": "DARK GOLBAT",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/32"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/32"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-gyarados-team-rocket-tr-8.png",
+    "blurredURL": "/assets/images/dark-gyarados-team-rocket-tr-8 (Custom).jpeg",
+    "pokemon": "GYARADOS",
+    "cardName": "DARK GYARADOS",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/33"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/33"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-hypno-team-rocket-tr-9.png",
+    "blurredURL": "/assets/images/dark-hypno-team-rocket-tr-9 (Custom).jpeg",
+    "pokemon": "HYPNO",
+    "cardName": "DARK HYPNO",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/34"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/34"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-jolteon-team-rocket-tr-38.png",
+    "blurredURL": "/assets/images/dark-jolteon-team-rocket-tr-38 (Custom).jpeg",
+    "pokemon": "JOLTEON",
+    "cardName": "DARK JOLTEON",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/35"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/35"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-machamp-team-rocket-tr-10.png",
+    "blurredURL": "/assets/images/dark-machamp-team-rocket-tr-10 (Custom).jpeg",
+    "pokemon": "MACHAMP",
+    "cardName": "DARK MACHAMP",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/36"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/36"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-magneton-team-rocket-tr-11.png",
+    "blurredURL": "/assets/images/dark-magneton-team-rocket-tr-11 (Custom).jpeg",
+    "pokemon": "MAGNETON",
+    "cardName": "DARK MAGNETON",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/37"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/37"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-slowbro-team-rocket-tr-12.png",
+    "blurredURL": "/assets/images/dark-slowbro-team-rocket-tr-12 (Custom).jpeg",
+    "pokemon": "SLOWBRO",
+    "cardName": "DARK SLOWBRO",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/38"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/38"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-vileplume-team-rocket-tr-13.png",
+    "blurredURL": "/assets/images/dark-vileplume-team-rocket-tr-13 (Custom).jpeg",
+    "pokemon": "VILEPLUME",
+    "cardName": "DARK VILEPLUME",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/39"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/39"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dark-weezing-team-rocket-tr-14.png",
+    "blurredURL": "/assets/images/dark-weezing-team-rocket-tr-14 (Custom).jpeg",
+    "pokemon": "WEEZING",
+    "cardName": "DARK WEEZING",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/40"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/40"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/ditto-fossil-fo-3.png",
+    "blurredURL": "/assets/images/ditto-fossil-fo-3 (Custom).jpeg",
+    "pokemon": "DITTO",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/41"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/41"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dragonite-fossil-fo-4.png",
+    "blurredURL": "/assets/images/dragonite-fossil-fo-4 (Custom).jpeg",
+    "pokemon": "DRAGONITE",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/42"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/42"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/dratini-team-rocket-tr-53.png",
+    "blurredURL": "/assets/images/dratini-team-rocket-tr-53 (Custom).jpeg",
+    "pokemon": "DRATINI",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/43"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/43"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/eevee-team-rocket-tr-55.png",
+    "blurredURL": "/assets/images/eevee-team-rocket-tr-55 (Custom).jpeg",
+    "pokemon": "EEVEE",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/44"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/44"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/eilgjlu.png",
+    "blurredURL": "/assets/images/eilgjlu (custom).png",
+    "pokemon": "CLEFABLE",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/45"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/45"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/elziewo.png",
+    "blurredURL": "/assets/images/elziewo (custom).png",
+    "pokemon": "VENOSAUR",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/46"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/46"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-bulbasaur-gym-challenge-39.png",
+    "blurredURL": "/assets/images/erikas-bulbasaur-gym-challenge-39 (Custom).jpeg",
+    "pokemon": "BULBASAUR",
+    "cardName": "ERIKAS BULBASAUR",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/47"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/47"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-clefable-gym-heroes-3.png",
+    "blurredURL": "/assets/images/erikas-clefable-gym-heroes-3 (Custom).jpeg",
+    "pokemon": "CLEFABLE",
+    "cardName": "ERIKAS CLEFABLE",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/48"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/48"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-dragonair-gym-heroes-4.png",
+    "blurredURL": "/assets/images/erikas-dragonair-gym-heroes-4 (Custom).jpeg",
+    "pokemon": "DRAGONAIR",
+    "cardName": "ERIKAS DRAGONAIR",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/49"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/49"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-dratini-gym-heroes-42.png",
+    "blurredURL": "/assets/images/erikas-dratini-gym-heroes-42 (Custom).jpeg",
+    "pokemon": "DRATINI",
+    "cardName": "ERIKAS DRATINI",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/50"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/50"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-ivysaur-gym-challenge-41.png",
+    "blurredURL": "/assets/images/erikas-ivysaur-gym-challenge-41 (Custom).jpeg",
+    "pokemon": "IVYSAUR",
+    "cardName": "ERIKAS IVYSAUR",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/51"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/51"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-venusaur-gym-challenge-4.png",
+    "blurredURL": "/assets/images/erikas-venusaur-gym-challenge-4 (Custom).jpeg",
+    "pokemon": "VENOSAUR",
+    "cardName": "ERIKAS VENOSAUR",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/52"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/52"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/erikas-vileplume-gym-heroes-5.png",
+    "blurredURL": "/assets/images/erikas-vileplume-gym-heroes-5 (Custom).jpeg",
+    "pokemon": "VILEPLUME",
+    "cardName": "ERIKAS VILEPLUME",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/53"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/53"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/f91dcby.png",
+    "blurredURL": "/assets/images/f91dcby (custom).png",
+    "pokemon": "NINETAILS",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/54"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/54"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/fg1pjcb.png",
+    "blurredURL": "/assets/images/fg1pjcb (custom).png",
+    "pokemon": "MAGIKARP",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/55"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/55"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/g0segax.png",
+    "blurredURL": "/assets/images/g0segax (custom).png",
+    "pokemon": "GYARADOS",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/56"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/56"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/gengar-fossil-fo-5.png",
+    "blurredURL": "/assets/images/gengar-fossil-fo-5 (Custom).jpeg",
+    "pokemon": "GENGAR",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/57"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/57"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/giovannis-gyarados-gym-challenge-5.png",
+    "blurredURL": "/assets/images/giovannis-gyarados-gym-challenge-5 (Custom).jpeg",
+    "pokemon": "GYARADOS",
+    "cardName": "GIOVANNIS GYARADOS",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/58"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/58"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/giovannis-machamp-gym-challenge-6.png",
+    "blurredURL": "/assets/images/giovannis-machamp-gym-challenge-6 (Custom).jpeg",
+    "pokemon": "MACHAMP",
+    "cardName": "GIOVANNIS MACHAMP",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/59"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/59"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/giovannis-nidoking-gym-challenge-7.png",
+    "blurredURL": "/assets/images/giovannis-nidoking-gym-challenge-7 (Custom).jpeg",
+    "pokemon": "NIDOKING",
+    "cardName": "GIOVANNIS NIDOKING",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/60"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/60"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/giovannis-persian-gym-challenge-8.png",
+    "blurredURL": "/assets/images/giovannis-persian-gym-challenge-8 (Custom).jpeg",
+    "pokemon": "PERSIAN",
+    "cardName": "GIOVANNIS PERSIAN",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/61"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/61"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/govurbe.png",
+    "blurredURL": "/assets/images/govurbe (custom).png",
+    "pokemon": "ELECTRODE",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/62"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/62"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/grimer-team-rocket-tr-57.png",
+    "blurredURL": "/assets/images/grimer-team-rocket-tr-57 (Custom).jpeg",
+    "pokemon": "GRIMER",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/63"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/63"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/ha95vtb.png",
+    "blurredURL": "/assets/images/ha95vtb (custom).png",
+    "pokemon": "JOLTEON",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/64"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/64"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/haunter-fossil-fo-6.png",
+    "blurredURL": "/assets/images/haunter-fossil-fo-6 (Custom).jpeg",
+    "pokemon": "HAUNTER",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/65"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/65"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/hitmonlee-fossil-fo-7.png",
+    "blurredURL": "/assets/images/hitmonlee-fossil-fo-7 (Custom).jpeg",
+    "pokemon": "HITMONLEE",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/66"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/66"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/hypno-fossil-fo-8.png",
+    "blurredURL": "/assets/images/hypno-fossil-fo-8 (Custom).jpeg",
+    "pokemon": "HYPNO",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/67"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/67"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/i56s0jq.png",
+    "blurredURL": "/assets/images/i56s0jq (custom).png",
+    "pokemon": "VAPOREON",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/68"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/68"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/jcevfwa.png",
+    "blurredURL": "/assets/images/jcevfwa (custom).png",
+    "pokemon": "MEWTWO",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/69"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/69"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/jsmlbnu.png",
+    "blurredURL": "/assets/images/jsmlbnu (custom).png",
+    "pokemon": "PIKACHU",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/70"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/70"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/kabutops-fossil-fo-9.png",
+    "blurredURL": "/assets/images/kabutops-fossil-fo-9 (Custom).jpeg",
+    "pokemon": "KABUTOPS",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/71"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/71"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/kc6bjg0.png",
+    "blurredURL": "/assets/images/kc6bjg0 (custom).png",
+    "pokemon": "ZAPDOS",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/72"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/72"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/khuudby.png",
+    "blurredURL": "/assets/images/khuudby (custom).png",
+    "pokemon": "BULBASAUR",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/73"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/73"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/kogas-beedrill-gym-challenge-9.png",
+    "blurredURL": "/assets/images/kogas-beedrill-gym-challenge-9 (Custom).jpeg",
+    "pokemon": "BEEDRILL",
+    "cardName": "KOGAS BEEDRILL",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/74"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/74"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/kogas-ditto-gym-challenge-10.png",
+    "blurredURL": "/assets/images/kogas-ditto-gym-challenge-10 (Custom).jpeg",
+    "pokemon": "DITTO",
+    "cardName": "KOGAS DITTO",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/75"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/75"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/kogas-pidgey-gym-challenge-49.png",
+    "blurredURL": "/assets/images/kogas-pidgey-gym-challenge-49 (Custom).jpeg",
+    "pokemon": "PIDGEY",
+    "cardName": "KOGAS PIDGEY",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/76"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/76"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lapras-fossil-fo-10.png",
+    "blurredURL": "/assets/images/lapras-fossil-fo-10 (Custom).jpeg",
+    "pokemon": "LAPRAS",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/77"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/77"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lduyxbm.png",
+    "blurredURL": "/assets/images/lduyxbm (custom).png",
+    "pokemon": "BUTTERFREE",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/78"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/78"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-electabuzz-gym-heroes-6.png",
+    "blurredURL": "/assets/images/lt.-surges-electabuzz-gym-heroes-6 (Custom).jpeg",
+    "pokemon": "ELECTABUZZ",
+    "cardName": "LT SURGES ELECTABUZZ",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/79"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/79"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-electabuzz-gym-heroes-27.png",
+    "blurredURL": "/assets/images/lt.-surges-electabuzz-gym-heroes-27 (Custom).jpeg",
+    "pokemon": "ELECTABUZZ",
+    "cardName": "LT SURGES ELECTABUZZ",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/80"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/80"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-fearow-gym-heroes-7.png",
+    "blurredURL": "/assets/images/lt.-surges-fearow-gym-heroes-7 (Custom).jpeg",
+    "pokemon": "FEAROW",
+    "cardName": "LT SURGES FEAROW",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/81"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/81"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-magneton-gym-heroes-8.png",
+    "blurredURL": "/assets/images/lt.-surges-magneton-gym-heroes-8 (Custom).jpeg",
+    "pokemon": "MAGNETON",
+    "cardName": "LT SURGES MAGNETON",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/82"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/82"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-pikachu-gym-heroes-81.png",
+    "blurredURL": "/assets/images/lt.-surges-pikachu-gym-heroes-81 (Custom).jpeg",
+    "pokemon": "PIKACHU",
+    "cardName": "LT SURGES PIKACHU",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/83"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/83"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-raichu-gym-challenge-11.png",
+    "blurredURL": "/assets/images/lt.-surges-raichu-gym-challenge-11 (Custom).jpeg",
+    "pokemon": "RAICHU",
+    "cardName": "LT SURGES RAICHU",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/84"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/84"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-raichu-gym-heroes-28.png",
+    "blurredURL": "/assets/images/lt.-surges-raichu-gym-heroes-28 (Custom).jpeg",
+    "pokemon": "RAICHU",
+    "cardName": "LT SURGES RAICHU",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/85"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/85"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/lt.-surges-raticate-gym-heroes-51.png",
+    "blurredURL": "/assets/images/lt.-surges-raticate-gym-heroes-51 (Custom).jpeg",
+    "pokemon": "RATICATE",
+    "cardName": "LT SURGES RATICATE",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/86"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/86"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/magikarp-team-rocket-tr-47.png",
+    "blurredURL": "/assets/images/magikarp-team-rocket-tr-47 (Custom).jpeg",
+    "pokemon": "MAGIKARP",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/87"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/87"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/magmar-fossil-fo-39.png",
+    "blurredURL": "/assets/images/magmar-fossil-fo-39 (Custom).jpeg",
+    "pokemon": "MAGMAR",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/88"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/88"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/magneton-fossil-fo-11.png",
+    "blurredURL": "/assets/images/magneton-fossil-fo-11 (Custom).jpeg",
+    "pokemon": "MAGNETON",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/89"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/89"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/mistys-golduck-gym-challenge-12.png",
+    "blurredURL": "/assets/images/mistys-golduck-gym-challenge-12 (Custom).jpeg",
+    "pokemon": "GOLDUCK",
+    "cardName": "MISTYS GOLDUCK",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/90"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/90"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/mistys-gyarados-gym-challenge-13.png",
+    "blurredURL": "/assets/images/mistys-gyarados-gym-challenge-13 (Custom).jpeg",
+    "pokemon": "GYARADOS",
+    "cardName": "MISTYS GYARADOS",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/91"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/91"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/mistys-seadra-gym-heroes-9.png",
+    "blurredURL": "/assets/images/mistys-seadra-gym-heroes-9 (Custom).jpeg",
+    "pokemon": "SEADRA",
+    "cardName": "MISTYS SEADRA",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/92"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/92"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/mistys-tentacruel-gym-heroes-10.png",
+    "blurredURL": "/assets/images/mistys-tentacruel-gym-heroes-10 (Custom).jpeg",
+    "pokemon": "TENTACRUEL",
+    "cardName": "MISTYS TENTACRUEL",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/93"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/93"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/moltres-fossil-fo-12.png",
+    "blurredURL": "/assets/images/moltres-fossil-fo-12 (Custom).jpeg",
+    "pokemon": "MOLTRES",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/94"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/94"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/muk-fossil-fo-13.png",
+    "blurredURL": "/assets/images/muk-fossil-fo-13 (Custom).jpeg",
+    "pokemon": "MUK",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/95"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/95"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/mw5jmon.png",
+    "blurredURL": "/assets/images/mw5jmon (custom).png",
+    "pokemon": "CLEFAIRY",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/96"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/96"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/psyduck-fossil-fo-53.png",
+    "blurredURL": "/assets/images/psyduck-fossil-fo-53 (Custom).jpeg",
+    "pokemon": "PSYDUCK",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/97"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/97"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/q4kazuw.png",
+    "blurredURL": "/assets/images/q4kazuw (custom).png",
+    "pokemon": "ALAKAZAM",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/98"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/98"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/r1gwb2o.png",
+    "blurredURL": "/assets/images/r1gwb2o (custom).png",
+    "pokemon": "VILEPLUME",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/99"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/99"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/raichu-fossil-fo-14.png",
+    "blurredURL": "/assets/images/raichu-fossil-fo-14 (Custom).jpeg",
+    "pokemon": "RAICHU",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/100"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/100"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rfhql0e.png",
+    "blurredURL": "/assets/images/rfhql0e (custom).png",
+    "pokemon": "PIDGEOT",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/101"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/101"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rockets-hitmonchan-gym-heroes-11.png",
+    "blurredURL": "/assets/images/rockets-hitmonchan-gym-heroes-11 (Custom).jpeg",
+    "pokemon": "HITMONCHAN",
+    "cardName": "ROCKETS HITMONCHAN",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/102"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/102"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rockets-mewtwo-gym-challenge-14.png",
+    "blurredURL": "/assets/images/rockets-mewtwo-gym-challenge-14 (Custom).jpeg",
+    "pokemon": "MEWTWO",
+    "cardName": "ROCKETS MEWTWO",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/103"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/103"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rockets-moltres-gym-heroes-12.png",
+    "blurredURL": "/assets/images/rockets-moltres-gym-heroes-12 (Custom).jpeg",
+    "pokemon": "MOLTRES",
+    "cardName": "ROCKETS MOLTRES",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/104"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/104"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rockets-scyther-gym-heroes-13.png",
+    "blurredURL": "/assets/images/rockets-scyther-gym-heroes-13 (Custom).jpeg",
+    "pokemon": "SCYTHER",
+    "cardName": "ROCKETS SCYTHER",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/105"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/105"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rockets-snorlax-gym-heroes-33.png",
+    "blurredURL": "/assets/images/rockets-snorlax-gym-heroes-33 (Custom).jpeg",
+    "pokemon": "SNORLAX",
+    "cardName": "ROCKETS SNORLAX",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/106"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/106"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/rockets-zapdos-gym-challenge-15.png",
+    "blurredURL": "/assets/images/rockets-zapdos-gym-challenge-15 (Custom).jpeg",
+    "pokemon": "ZAPDOS",
+    "cardName": "ROCKETS ZAPDOS",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/107"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/107"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/s6x3rsp.png",
+    "blurredURL": "/assets/images/s6x3rsp (custom).png",
+    "pokemon": "NIDOQUEEN",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/108"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/108"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/sabrinas-alakazam-gym-challenge-16.png",
+    "blurredURL": "/assets/images/sabrinas-alakazam-gym-challenge-16 (Custom).jpeg",
+    "pokemon": "ALAKAZAM",
+    "cardName": "SABRINAS ALAKAZAM",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/109"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/109"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/sabrinas-gengar-gym-challenge-29.png",
+    "blurredURL": "/assets/images/sabrinas-gengar-gym-challenge-29 (Custom).jpeg",
+    "pokemon": "GENGAR",
+    "cardName": "SABRINAS GENGAR",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/110"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/110"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/sabrinas-gengar-gym-heroes-14.png",
+    "blurredURL": "/assets/images/sabrinas-gengar-gym-heroes-14 (Custom).jpeg",
+    "pokemon": "GENGAR",
+    "cardName": "SABRINAS GENGAR",
+    "set_name": "GYM HEROES",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/111"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/111"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/sabrinas-haunter-gym-challenge-55.png",
+    "blurredURL": "/assets/images/sabrinas-haunter-gym-challenge-55 (Custom).jpeg",
+    "pokemon": "HUNTER",
+    "cardName": "SABRINAS HUNTER",
+    "set_name": "GYM CHALLENGE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/112"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/112"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/seadra-fossil-fo-42.png",
+    "blurredURL": "/assets/images/seadra-fossil-fo-42 (Custom).jpeg",
+    "pokemon": "SEADRA",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/113"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/113"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/slowbro-fossil-fo-43.png",
+    "blurredURL": "/assets/images/slowbro-fossil-fo-43 (Custom).jpeg",
+    "pokemon": "SLOWBRO",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/114"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/114"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/slowpoke-fossil-fo-55.png",
+    "blurredURL": "/assets/images/slowpoke-fossil-fo-55 (Custom).jpeg",
+    "pokemon": "SLOWPOKE",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/115"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/115"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/slowpoke-team-rocket-tr-67.png",
+    "blurredURL": "/assets/images/slowpoke-team-rocket-tr-67 (Custom).jpeg",
+    "pokemon": "SLOWPOKE",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/116"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/116"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/smkpgfl.png",
+    "blurredURL": "/assets/images/smkpgfl (custom).png",
+    "pokemon": "WIGGLYTUFF",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/117"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/117"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/smrer97.png",
+    "blurredURL": "/assets/images/smrer97 (custom).png",
+    "pokemon": "KANGASKHAN",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/118"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/118"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/squirtle-team-rocket-tr-68.png",
+    "blurredURL": "/assets/images/squirtle-team-rocket-tr-68 (Custom).jpeg",
+    "pokemon": "SQUIRTLE",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/119"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/119"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/srl14xm.png",
+    "blurredURL": "/assets/images/srl14xm (custom).png",
+    "pokemon": "MEOWTH",
+    "cardName": "",
+    "set_name": "TEAM ROCKET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/120"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/120"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/tngj9k1.png",
+    "blurredURL": "/assets/images/tngj9k1 (custom).png",
+    "pokemon": "SNORLAX",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/121"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/121"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/uh1thvn.png",
+    "blurredURL": "/assets/images/uh1thvn (custom).png",
+    "pokemon": "FLAREON",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/122"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/122"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/urn5hjo.png",
+    "blurredURL": "/assets/images/urn5hjo (custom).png",
+    "pokemon": "CHANSEY",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/123"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/123"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/uuiym0t.png",
+    "blurredURL": "/assets/images/uuiym0t (custom).png",
+    "pokemon": "SCYTHER",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/124"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/124"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/v8ahim7.png",
+    "blurredURL": "/assets/images/v8ahim7 (custom).png",
+    "pokemon": "MAGNETON",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/125"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/125"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/xwxz42u.png",
+    "blurredURL": "/assets/images/xwxz42u (custom).png",
+    "pokemon": "NIDOKING",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/126"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/126"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/yhoiz1w.png",
+    "blurredURL": "/assets/images/yhoiz1w (custom).png",
+    "pokemon": "PINSIR",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/127"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/127"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/ylqayqv.png",
+    "blurredURL": "/assets/images/ylqayqv (custom).png",
+    "pokemon": "VICTREEBEL",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/128"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/128"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/zapdos-fossil-fo-15.png",
+    "blurredURL": "/assets/images/zapdos-fossil-fo-15 (Custom).jpeg",
+    "pokemon": "ZAPDOS",
+    "cardName": "",
+    "set_name": "FOSSIL",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/129"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/129"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/zddb6f7.png",
+    "blurredURL": "/assets/images/zddb6f7 (custom).png",
+    "pokemon": "MR MIME",
+    "cardName": "",
+    "set_name": "JUNGLE",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/130"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/130"
+      }
+    }
+  },
+  {
+    "originalURL": "/assets/images/zmlmpw3.png",
+    "blurredURL": "/assets/images/zmlmpw3 (custom).png",
+    "pokemon": "POLIWRATH",
+    "cardName": "",
+    "set_name": "BASE SET",
+    "_links": {
+      "self": {
+        "href": "http://localhost:8080/cards/131"
+      },
+      "card": {
+        "href": "http://localhost:8080/cards/131"
+      }
+    }
+  }
+]

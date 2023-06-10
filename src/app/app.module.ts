@@ -6,6 +6,7 @@ import { GameSetupComponent } from './components/game-setup/game-setup.component
 import { AppRoutingModule } from './app-routing.module';
 import { GameComponent } from './components/game/game.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,

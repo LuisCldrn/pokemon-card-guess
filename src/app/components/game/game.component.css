@@ -1,0 +1,59 @@
+img {
+    image-rendering: pixelated;
+}
+
+.main {
+    background-color: rgb(216, 225, 230);
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 40vw;
+}
+
+.footer {
+    padding: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btns {
+    display: flex;
+    gap: 3vw;
+}
+
+.btns button {
+    width: 10vw;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 960px) {
+    .btns button {
+        width: 30vw;
+    }
+
+    input {
+        width: 80vw;
+    }
+
+}

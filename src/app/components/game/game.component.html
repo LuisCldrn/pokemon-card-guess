@@ -2,23 +2,44 @@
   <h3>GUESS THE CARD!</h3>
   <div class="guessInput">
     <div class="">
-      <label for="exampleDataList" class="form-label">Select a Pokemon</label>
-      <input
-        class="form-control"
-        list="datalistOptions"
-        id="exampleDataList"
-        placeholder="Type to search..."
-      />
-      <datalist id="datalistOptions">
-        <option value="San Francisco"></option>
-        <option value="New York"></option>
-        <option value="Seattle"></option>
-        <option value="Los Angeles"></option>
-        <option value="Chicago"></option>
-      </datalist>
+      <div class="cards">
+        <img width="450" src="{{ selectedCard.blurredURL }}" alt="" />
+      </div>
+      <div class="inputs">
+        <div class="pokemoninput">
+          <label for="exampleDataList" class="form-label">Select a Pokemon</label>
+          <input 
+            (change)="setPokemon(pokeSel.value)"
+            #pokeSel
+            class="form-control"
+            list="datalistOptions"
+            id="exampleDataList"
+            placeholder="Type to search Pokemon..."
+          />
+          <datalist id="datalistOptions">
+            <option *ngFor="let poke of pokemons" value="{{ poke }}">
+              {{ poke }}
+            </option>
+          </datalist>
+        </div>
+        <div class="setInput">
+          <label for="setInputs" class="form-label">Select a Set</label>
+          <input (change)="setSet(selset.value)" #selset class="form-control" list="sets" id="setInputs" placeholder="Type to search Set.." >
+          <datalist id="sets">
+            <option *ngFor="let set of sets" value="{{ set }}">
+              {{ set }}
+            </option>
+          </datalist>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="start">
-    <button routerLink="game" class="btn btn-warning">Hint</button>
+  <div class="footer">
+    <div *ngIf="wrongAlert.length>0" class="alert alert-danger" role="alert">{{wrongAlert}}</div>
+    <div *ngIf="message.length>0" class="alert alert-success" role="alert">{{message}}</div>
+    <div class="btns">
+      <button class="btn btn-success" (click)="checkGuess()" >GUESS</button>
+      <button class="btn btn-danger" (click)="getCard()">GET NEW CARD</button>
+    </div>
   </div>
 </div>
